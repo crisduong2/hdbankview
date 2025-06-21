@@ -1,0 +1,787 @@
+{
+  "name": "KPI Tổng hợp",
+  "type": "node",
+  "children": [
+    {
+      "name": "CN",
+      "type": "node",
+      "children": [
+        {
+          "name": "Đồng Nai",
+          "type": "node",
+          "children": [
+            {
+              "name": "CHI NHÁNH ĐỒNG NAI",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 11,
+                "du_no_mua_nha": 22,
+                "casa": 7,
+                "co_ky_han": 16,
+                "loi_nhuan_toi": 10,
+                "no_xau": 0
+              }
+            },
+            {
+              "name": "CHI NHÁNH SỞ GIAO DỊCH ĐỒNG NAI",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 12,
+                "du_no_mua_nha": 32,
+                "casa": 4,
+                "co_ky_han": 33,
+                "loi_nhuan_toi": 7,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐỊNH QUÁN",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 15,
+                "du_no_mua_nha": 58,
+                "casa": 6,
+                "co_ky_han": 27,
+                "loi_nhuan_toi": 12,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL ĐỒNG HÒA",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 14,
+                "du_no_mua_nha": 44,
+                "casa": 14,
+                "co_ky_han": 20,
+                "loi_nhuan_toi": 25,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL LONG BÌNH",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 11,
+                "du_no_mua_nha": 37,
+                "casa": 11,
+                "co_ky_han": 38,
+                "loi_nhuan_toi": 20,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL LONG THÀNH",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 17,
+                "du_no_mua_nha": 73,
+                "casa": 13,
+                "co_ky_han": 34,
+                "loi_nhuan_toi": 16,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL SÔNG RAY",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 27,
+                "du_no_mua_nha": 55,
+                "casa": 8,
+                "co_ky_han": 10,
+                "loi_nhuan_toi": 3,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL TÂN BIÊN",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 5,
+                "du_no_mua_nha": 70,
+                "casa": 11,
+                "co_ky_han": 20,
+                "loi_nhuan_toi": 14,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL TÂN MAI",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 8,
+                "du_no_mua_nha": 71,
+                "casa": 11,
+                "co_ky_han": 26,
+                "loi_nhuan_toi": 21,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL THỐNG NHẤT",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 17,
+                "du_no_mua_nha": 66,
+                "casa": 7,
+                "co_ky_han": 26,
+                "loi_nhuan_toi": 13,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL VĨNH AN",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 7,
+                "du_no_mua_nha": 43,
+                "casa": 16,
+                "co_ky_han": 17,
+                "loi_nhuan_toi": 17,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK ĐTBL XUÂN AN",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 24,
+                "du_no_mua_nha": 40,
+                "casa": 20,
+                "co_ky_han": 8,
+                "loi_nhuan_toi": 19,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK GIA RAY",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 27,
+                "du_no_mua_nha": 41,
+                "casa": 15,
+                "co_ky_han": 18,
+                "loi_nhuan_toi": 24,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK HỐ NAI",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 29,
+                "du_no_mua_nha": 87,
+                "casa": 3,
+                "co_ky_han": 20,
+                "loi_nhuan_toi": 7,
+                "no_xau": 2
+              }
+            },
+            {
+              "name": "HDBANK LONG KHÁNH",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 16,
+                "du_no_mua_nha": 88,
+                "casa": 3,
+                "co_ky_han": 27,
+                "loi_nhuan_toi": 16,
+                "no_xau": 2
+              }
+            },
+            {
+              "name": "HDBANK PHƯƠNG LÂM",
+              "type": "node",
+              "children": [
+                {
+                  "name": "HDBank ĐTBL Phương Lâm",
+                  "type": "node",
+                  "children": [
+                    {
+                      "name": "TRẦN NGUYÊN LY",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 20,
+                        "du_no_mua_nha": 79,
+                        "casa": 5,
+                        "co_ky_han": 32,
+                        "loi_nhuan_toi": 14,
+                        "no_xau": 1
+                      }
+                    },
+                    {
+                      "name": "LĂNG HẤM TÍN",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 10,
+                        "du_no_mua_nha": 71,
+                        "casa": 11,
+                        "co_ky_han": 14,
+                        "loi_nhuan_toi": 8,
+                        "no_xau": 1
+                      }
+                    },
+                    {
+                      "name": "VŨ TIẾN ĐẠT",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 15,
+                        "du_no_mua_nha": 98,
+                        "casa": 7,
+                        "co_ky_han": 27,
+                        "loi_nhuan_toi": 7,
+                        "no_xau": 2
+                      }
+                    },
+                    {
+                      "name": "NGUYỄN VĂN NAM",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 21,
+                        "du_no_mua_nha": 27,
+                        "casa": 6,
+                        "co_ky_han": 33,
+                        "loi_nhuan_toi": 14,
+                        "no_xau": 1
+                      }
+                    },
+                    {
+                      "name": "ÂN THỊ THANH THẢO",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 27,
+                        "du_no_mua_nha": 31,
+                        "casa": 7,
+                        "co_ky_han": 14,
+                        "loi_nhuan_toi": 11,
+                        "no_xau": 1
+                      }
+                    },
+                    {
+                      "name": "NGUYỄN VĂN HUẤN",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 15,
+                        "du_no_mua_nha": 99,
+                        "casa": 17,
+                        "co_ky_han": 29,
+                        "loi_nhuan_toi": 11,
+                        "no_xau": 2
+                      }
+                    },
+                    {
+                      "name": "LÊ PHÚ QUÝ",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 25,
+                        "du_no_mua_nha": 88,
+                        "casa": 8,
+                        "co_ky_han": 13,
+                        "loi_nhuan_toi": 7,
+                        "no_xau": 2
+                      }
+                    },
+                    {
+                      "name": "BÙI THÙY DƯƠNG",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 19,
+                        "du_no_mua_nha": 99,
+                        "casa": 4,
+                        "co_ky_han": 21,
+                        "loi_nhuan_toi": 20,
+                        "no_xau": 2
+                      }
+                    },
+                    {
+                      "name": "NGUYỄN PHAN HOÀI PHÚ",
+                      "type": "employee",
+                      "children": [],
+                      "kpis": {
+                        "du_no_tieu_dung": 24,
+                        "du_no_mua_nha": 18,
+                        "casa": 5,
+                        "co_ky_han": 22,
+                        "loi_nhuan_toi": 14,
+                        "no_xau": 1
+                      }
+                    }
+                  ],
+                  "kpis": {
+                    "du_no_tieu_dung": 176,
+                    "du_no_mua_nha": 610,
+                    "casa": 70,
+                    "co_ky_han": 205,
+                    "loi_nhuan_toi": 106,
+                    "no_xau": 13
+                  }
+                }
+              ],
+              "kpis": {
+                "du_no_tieu_dung": 176,
+                "du_no_mua_nha": 610,
+                "casa": 70,
+                "co_ky_han": 205,
+                "loi_nhuan_toi": 106,
+                "no_xau": 13
+              }
+            },
+            {
+              "name": "HDBANK QUANG VINH",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 12,
+                "du_no_mua_nha": 18,
+                "casa": 13,
+                "co_ky_han": 38,
+                "loi_nhuan_toi": 4,
+                "no_xau": 0
+              }
+            },
+            {
+              "name": "HDBANK TAM HIỆP",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 27,
+                "du_no_mua_nha": 19,
+                "casa": 13,
+                "co_ky_han": 39,
+                "loi_nhuan_toi": 4,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK TAM PHƯỚC",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 18,
+                "du_no_mua_nha": 71,
+                "casa": 13,
+                "co_ky_han": 11,
+                "loi_nhuan_toi": 21,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "HDBANK TRẢNG BOM",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 19,
+                "du_no_mua_nha": 25,
+                "casa": 15,
+                "co_ky_han": 29,
+                "loi_nhuan_toi": 13,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "KHU VỰC ĐỒNG NAI",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 11,
+                "du_no_mua_nha": 57,
+                "casa": 16,
+                "co_ky_han": 28,
+                "loi_nhuan_toi": 5,
+                "no_xau": 1
+              }
+            }
+          ],
+          "kpis": {
+            "du_no_tieu_dung": 503,
+            "du_no_mua_nha": 1627,
+            "casa": 289,
+            "co_ky_han": 690,
+            "loi_nhuan_toi": 377,
+            "no_xau": 33
+          }
+        },
+        {
+          "name": "Đông Nam Bộ",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 9,
+            "du_no_mua_nha": 53,
+            "casa": 3,
+            "co_ky_han": 32,
+            "loi_nhuan_toi": 19,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Hà Nội",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 24,
+            "du_no_mua_nha": 52,
+            "casa": 12,
+            "co_ky_han": 31,
+            "loi_nhuan_toi": 10,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Miền Bắc",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 9,
+            "du_no_mua_nha": 69,
+            "casa": 15,
+            "co_ky_han": 20,
+            "loi_nhuan_toi": 9,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Miền Tây",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 8,
+            "du_no_mua_nha": 80,
+            "casa": 11,
+            "co_ky_han": 13,
+            "loi_nhuan_toi": 6,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Miền Trung",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 19,
+            "du_no_mua_nha": 79,
+            "casa": 10,
+            "co_ky_han": 36,
+            "loi_nhuan_toi": 21,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Tây Nguyên",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 30,
+            "du_no_mua_nha": 45,
+            "casa": 15,
+            "co_ky_han": 20,
+            "loi_nhuan_toi": 11,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "TPHCM",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 29,
+            "du_no_mua_nha": 39,
+            "casa": 17,
+            "co_ky_han": 8,
+            "loi_nhuan_toi": 12,
+            "no_xau": 1
+          }
+        }
+      ],
+      "kpis": {
+        "du_no_tieu_dung": 631,
+        "du_no_mua_nha": 2044,
+        "casa": 372,
+        "co_ky_han": 850,
+        "loi_nhuan_toi": 465,
+        "no_xau": 40
+      }
+    },
+    {
+      "name": "HO",
+      "type": "node",
+      "children": [
+        {
+          "name": "Đồng Nai",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 21,
+            "du_no_mua_nha": 98,
+            "casa": 15,
+            "co_ky_han": 18,
+            "loi_nhuan_toi": 20,
+            "no_xau": 2
+          }
+        },
+        {
+          "name": "BAN KIỂM SOÁT",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 9,
+            "du_no_mua_nha": 37,
+            "casa": 8,
+            "co_ky_han": 40,
+            "loi_nhuan_toi": 19,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "KHỐI CÔNG NGHỆ THÔNG TIN VÀ NGÂN HÀNG ĐIỆN TỬ",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 11,
+            "du_no_mua_nha": 82,
+            "casa": 12,
+            "co_ky_han": 23,
+            "loi_nhuan_toi": 21,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "KHỐI KHÁCH HÀNG DOANH NGHIỆP",
+          "type": "node",
+          "children": [
+            {
+              "name": "Phòng Quản lý bán hàng",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 15,
+                "du_no_mua_nha": 72,
+                "casa": 5,
+                "co_ky_han": 33,
+                "loi_nhuan_toi": 3,
+                "no_xau": 1
+              }
+            },
+            {
+              "name": "Trung tâm Hỗ trợ & Phát triển Khách hàng doanh nghiệp",
+              "type": "node",
+              "children": [],
+              "kpis": {
+                "du_no_tieu_dung": 27,
+                "du_no_mua_nha": 18,
+                "casa": 13,
+                "co_ky_han": 22,
+                "loi_nhuan_toi": 6,
+                "no_xau": 1
+              }
+            }
+          ],
+          "kpis": {
+            "du_no_tieu_dung": 42,
+            "du_no_mua_nha": 90,
+            "casa": 18,
+            "co_ky_han": 55,
+            "loi_nhuan_toi": 9,
+            "no_xau": 2
+          }
+        },
+        {
+          "name": "KHỐI VẬN HÀNH",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 13,
+            "du_no_mua_nha": 87,
+            "casa": 9,
+            "co_ky_han": 23,
+            "loi_nhuan_toi": 19,
+            "no_xau": 2
+          }
+        },
+        {
+          "name": "NGÂN HÀNG SỐ",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 27,
+            "du_no_mua_nha": 93,
+            "casa": 20,
+            "co_ky_han": 22,
+            "loi_nhuan_toi": 8,
+            "no_xau": 2
+          }
+        },
+        {
+          "name": "TRUNG TÂM QUẢN LÝ & HỖ TRỢ TÍN DỤNG",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 26,
+            "du_no_mua_nha": 96,
+            "casa": 5,
+            "co_ky_han": 11,
+            "loi_nhuan_toi": 14,
+            "no_xau": 2
+          }
+        },
+        {
+          "name": "TRUNG TÂM XỬ LÝ NỢ",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 25,
+            "du_no_mua_nha": 93,
+            "casa": 8,
+            "co_ky_han": 23,
+            "loi_nhuan_toi": 12,
+            "no_xau": 2
+          }
+        },
+        {
+          "name": "Đông Nam Bộ",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 9,
+            "du_no_mua_nha": 37,
+            "casa": 17,
+            "co_ky_han": 7,
+            "loi_nhuan_toi": 14,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Hà Nội",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 12,
+            "du_no_mua_nha": 28,
+            "casa": 18,
+            "co_ky_han": 20,
+            "loi_nhuan_toi": 5,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Miền Bắc",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 21,
+            "du_no_mua_nha": 31,
+            "casa": 8,
+            "co_ky_han": 21,
+            "loi_nhuan_toi": 18,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Miền Tây",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 10,
+            "du_no_mua_nha": 90,
+            "casa": 3,
+            "co_ky_han": 28,
+            "loi_nhuan_toi": 9,
+            "no_xau": 2
+          }
+        },
+        {
+          "name": "Miền Trung",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 29,
+            "du_no_mua_nha": 37,
+            "casa": 7,
+            "co_ky_han": 32,
+            "loi_nhuan_toi": 17,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Myanmar",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 21,
+            "du_no_mua_nha": 73,
+            "casa": 3,
+            "co_ky_han": 19,
+            "loi_nhuan_toi": 12,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "Tây Nguyên",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 28,
+            "du_no_mua_nha": 71,
+            "casa": 15,
+            "co_ky_han": 37,
+            "loi_nhuan_toi": 8,
+            "no_xau": 1
+          }
+        },
+        {
+          "name": "TPHCM",
+          "type": "node",
+          "children": [],
+          "kpis": {
+            "du_no_tieu_dung": 19,
+            "du_no_mua_nha": 16,
+            "casa": 18,
+            "co_ky_han": 28,
+            "loi_nhuan_toi": 8,
+            "no_xau": 1
+          }
+        }
+      ],
+      "kpis": {
+        "du_no_tieu_dung": 323,
+        "du_no_mua_nha": 1059,
+        "casa": 184,
+        "co_ky_han": 407,
+        "loi_nhuan_toi": 213,
+        "no_xau": 23
+      }
+    }
+  ],
+  "kpis": {
+    "du_no_tieu_dung": 954,
+    "du_no_mua_nha": 3103,
+    "casa": 556,
+    "co_ky_han": 1257,
+    "loi_nhuan_toi": 678,
+    "no_xau": 63
+  }
+}
