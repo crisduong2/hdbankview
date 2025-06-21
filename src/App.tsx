@@ -1,7 +1,7 @@
 import React from 'react';
 import KPIHierarchyTable from './components/KPIHierarchyTable';
 import { KPINode } from './types/kpi';
-import kpiData from '../KPI Tree for Bank.json';
+import kpiData from '../kpi-tree-for-bank.json';
 
 function App() {
   // Transform the JSON data to match our KPINode interface
